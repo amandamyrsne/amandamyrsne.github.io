@@ -134,5 +134,3 @@ If you like cookies, you have to try out [this recipe.](https://www.youtube.com/
         this.age = this.age + 1;
       }
     }
-
-##### [About](about.md)
