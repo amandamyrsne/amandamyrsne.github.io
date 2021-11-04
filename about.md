@@ -1,4 +1,4 @@
----
+YAML frontmatter
 layout: page
 title: "amandamyrsne.github.io"
 permalink: /about/
